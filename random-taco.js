@@ -1,5 +1,5 @@
 var tortillaOptions = ["crunchy tortilla", "soft tortilla", "dorito tortilla", "blue corn tortilla", "lettuce wrap", "cotton candy"];
-var proteinOptions = ["crab cakes", "hot dogs", "carne asada", "tinga chicken", "shrimp", "octopus", "tuna", "talapia", "jerk chicken", "saltfish", "tofu", "eel", "salmon", "fried puffin"];
+var proteinOptions = ["spam", "crab cakes", "hot dogs", "carne asada", "tinga chicken", "shrimp", "octopus", "tuna", "talapia", "jerk chicken", "saltfish", "tofu", "eel", "salmon", "fried puffin"];
 var cheeseOptions = ["queso quesadilla", "cotija cheese", "queso blanco", "blue cheese", "cheeto dust", "cheddar", "gouda", "juusto", "ez cheese"];
 var toppingOptions = ["crema", "pico de gallo", "guacamole", "salsa verde", "lettuce", "beans", "noodles", "jelly beans", "chocolate", "mustard", "popcorn", "ice cream", "flan", "nutella", "mayo", "habanero peppers"];
 
